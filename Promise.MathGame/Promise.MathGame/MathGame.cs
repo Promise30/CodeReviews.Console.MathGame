@@ -142,7 +142,6 @@ namespace Promise.MathGame
                     Console.WriteLine("Enter a valid game level.");
                     continue;
                 }
-;            
             }
             // Number of questions
             while (true)
